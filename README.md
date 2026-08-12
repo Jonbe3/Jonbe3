@@ -13,7 +13,7 @@
 - Desenvolvimento Web
 - Banco de Dados
 - Versionamento de código com Git e GitHub
-
+- Computação Gráfica
 ---
 
 #### 🛠️ Tecnologias e Ferramentas
